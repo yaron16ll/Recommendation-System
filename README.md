@@ -1,6 +1,8 @@
 # Recommendation-System
 
-**A Machine Learning(AI) prediction collaborative filltering model using Google Cloud.**  
+**A Machine Learning(AI) prediction collaborative filtering model using Google Cloud.**  
+**The model is first trained with unreal data for checkings and model learning,
+  the next stage is to train with real data from the application and get predictions.**  
 
 **<u><span style="color:blue;">Model Link</span></u>: https://console.cloud.google.com/welcome?invt=Abua1g&project=recommendation-shop**
 
@@ -14,7 +16,6 @@
 ### Successful Prediction(using Postman for checkings) of 10 recommended products
 
 ![צילום מסך 2025-04-24 103202](https://github.com/user-attachments/assets/54ea48d2-31fe-4281-baa1-53c852b5e984)
-
 
 
 
