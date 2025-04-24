@@ -3,6 +3,13 @@
 **A Machine Learning(AI) prediction collaborative filltering model using Google Cloud.**  
 
 
-## Recommendation-System
+## Product Catalog
+ ![צילום מסך 2025-04-24 102615](https://github.com/user-attachments/assets/6e06ea4c-bfc4-4bea-a896-94a300bf02b4)
+## User Events
+![צילום מסך 2025-04-24 102544](https://github.com/user-attachments/assets/e721d778-747b-4685-9ec5-d799a9ee2544)
+## Successful Prediction(using Postman for checkings)
+![צילום מסך 2025-04-24 103202](https://github.com/user-attachments/assets/54ea48d2-31fe-4281-baa1-53c852b5e984)
 
- 
+
+
+
