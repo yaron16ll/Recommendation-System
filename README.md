@@ -2,7 +2,7 @@
 
 **A Machine Learning(AI) prediction collaborative filltering model using Google Cloud.**  
 
-**<u><span style="color:blue;">Recommended for you</span></u>: https://console.cloud.google.com/welcome?invt=Abua1g&project=recommendation-shop**
+**<u><span style="color:blue;">Model Link</span></u>: https://console.cloud.google.com/welcome?invt=Abua1g&project=recommendation-shop**
 
 ## Product Catalog Data
  ![צילום מסך 2025-04-24 102615](https://github.com/user-attachments/assets/6e06ea4c-bfc4-4bea-a896-94a300bf02b4)
